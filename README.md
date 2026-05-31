@@ -1,3 +1,6 @@
+## View Notebook
+[Open in NBViewer](https://nbviewer.org/github/raaghul07/telecom-customer-churn-prediction/blob/main/Telecom_Customer_Churn_Prediction.ipynb)
+
 # 📉 Telecom Customer Churn Prediction
 
 Machine learning classification project to predict which telecom customers are likely to churn, using exploratory data analysis and two ML models.
